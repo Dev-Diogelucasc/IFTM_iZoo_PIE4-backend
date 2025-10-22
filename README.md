@@ -102,8 +102,7 @@ Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9...
 
 - `ADMIN` - Administrador (acesso total)
 - `USER` - Usuário comum
-- `SUPERVISOR` - Supervisor
-- `FUNCIONARIO` - Funcionário
+- `AGENT` - Agente de Saúde
 
 ### Formato do Telefone:
 
